@@ -1,1 +1,1 @@
-do pip install reqierements.txt
+do pip install requirements.txt
